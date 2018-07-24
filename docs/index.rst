@@ -12,7 +12,7 @@
 Welcome to Commodus documentation!
 ===============================================
 
-Commodus is a flexible open source gamification solution that allows you to easily integrate gamification features into your own products.
+Commodus is a flexible enterprise gamification solution that allows you to easily integrate gamification features into your own products.
 
 Contents:
 
