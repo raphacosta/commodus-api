@@ -7,20 +7,20 @@ Installation
 Requirements
 ============
 
-The gamification-engine requires an installed python distribution in version 3.x. It uses several language structures which are not supported in Python 2.x. Furthermore, the only currently supported persistence layer is PostgreSQL. Also the corresponding development packages are required (for Ubuntu/Debian: libpq-dev and python3-dev).
+The Commodus API requires an installed python distribution in version 3.x. It uses several language structures which are not supported in Python 2.x. Furthermore, the only currently supported persistence layer is PostgreSQL. Also the corresponding development packages are required (for Ubuntu/Debian: libpq-dev and python3-dev).
 
 
 Installation from PyPI
 ======================
 
-The gamification-engine is available as a python package.
+The commodus-api is available as a python package.
 You can install it by invoking
 
 .. highlight:: bash
 
 ::
 
-    $ pip install gamification-engine
+    $ pip install commodus-api
     $ gengine_quickstart mygengine
     $ cd mygengine
 
@@ -30,7 +30,7 @@ In the latest version, there are some optional dependencies for auth pushes and 
 
 ::
 
-    $ pip install gamification-engine[auth,pushes,testing]
+    $ pip install commodus-api[auth,pushes,testing]
 
 Afterwards edit production.ini according to your needs.
 
@@ -77,12 +77,12 @@ To quickly get started, you can run:
 Heroku-style
 ============
 
-There is also an Heroku-like Project (we use dokku) at gamification-engine-dokku_
+There is also an Heroku-like Project (we use dokku) at commodus-api-engine-dokku_
 
-.. _gamification-engine-dokku: https://github.com/ActiDoo/gamification-engine-dokku
+.. _commodus-api-dokku: https://github.com/ActiDoo/commodus-api-dokku
 
 
 Commercial Support
 ==================
 
-Commercial support is available at https://www.gamification-software.com or together with app development at https://www.appnadoo.de
+Commercial support is available at raphael@commodus.io or together with app development at www.hashtagconsulting.co.za
