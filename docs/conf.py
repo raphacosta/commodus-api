@@ -60,8 +60,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'gamification-engine'
-copyright = u'2015, ActiDoo GmbH'
+project = u'commodus'
+copyright = u'2016, Commodus'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -248,7 +248,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'gamification-engine', u'gamification-engine Documentation',
-   u'ActiDoo GmbH', 'gamification-engine', 'One line description of project.',
+   u'Commodus', 'gamification-engine', 'One line description of project.',
    'Miscellaneous'),
 ]
 
