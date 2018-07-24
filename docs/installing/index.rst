@@ -1,5 +1,5 @@
-:title: gamification-engine installation
-:description: installing the gamification-engine
+:title: Commodus installation
+:description: installing the commodus-API
 
 Installation
 ------------
