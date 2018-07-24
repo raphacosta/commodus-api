@@ -3,16 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-:title: gamification-engine is an open source software for integrating any kinds of gamification features into your product
-:description:  Welcome to gamification-engine, a flexible open source gamification solution
+:title: Commodus is an enterprise software for integrating any kinds of gamification features into your product
+:description:  Welcome to Commodus, a flexible enterprise gamification solution.
 
 
 
 
-Welcome to gamification-engine's documentation!
+Welcome to Commodus documentation!
 ===============================================
 
-gamification-engine is a flexible open source gamification solution that allows you to easily integrate gamification features into your own products.
+Commodus is a flexible open source gamification solution that allows you to easily integrate gamification features into your own products.
 
 Contents:
 
